@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: "vue-dropdown"
-  // publicPath: "/"
+  // publicPath: "vue-dropdown"
+  publicPath: "/"
 };
